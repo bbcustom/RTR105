@@ -1,5 +1,5 @@
 # RTR105
-[x] #### Datormācības kursa elektroniskā klade
+#### Datormācības kursa elektroniskā klade
 _ctrl + alt + t open terminal page
 **ctrl + shift + t open new terminal page**
 _tab 2x  all comands
