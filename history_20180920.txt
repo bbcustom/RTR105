@@ -1,0 +1,22 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  echo $PATH
+    5  pwd
+    6  echo $PATH
+    7  cat mans_pirmais_skripts.sh 
+    8  cat /bin/ls
+    9  mans_pirmais_skripts.sh
+   10  ls -l
+   11  git clone https://github.com/bbcustom/RTR105
+   12  ~/RTR105$ ls -l
+   13  ~/RTR105 ls -l
+   14  cd RTR105
+   15  ls -l
+   16  nano README.md
+   17  ls -l
+   18  nano git-upload
+   19  ls -l
+   20  chmod 764 git-upload
+   21  ls-l
+   22  ls -l
