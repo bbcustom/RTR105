@@ -1,0 +1,18 @@
+
+
+
+
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  idle
+    5  ls - l
+    6  firefox & 
+    7  vars ()
+    8  python 
+    9  firefox &
+   10  firefox & 
+   11  history >
+   12  history > history_20181001.txt 
+   13 ./test_la.py
+   14chmod 764 test_la.py
