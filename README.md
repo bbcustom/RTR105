@@ -13,3 +13,7 @@ nano - GNU nano manual
 PATH - locations of the directory or files
 cd path - changes the current working directory
 chmod - is uses to change permissions for file or directories
+python - open python window
+vars () The vars() function returns the __dict__ attribute of the given object if the object.
+cd - change directory
+idle - CPU proccess 
