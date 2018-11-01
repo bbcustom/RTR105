@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox & 
+    4  ls -l
+    5  nano teksts.txt
+    6  idle &
+    7  idle
+    8  cp documents/teksts1.txt
+    9  cp Documents/teksts1.txt
+   10  cp ./Documents/teksts1.txt
+   11  cp teskts.txt Documents/teksts1.txt
+   12  git clone https://github.com/bbcustom/RTR105
+   13  cd RTR105
+   14  open test 1.11.py
+   15  history_01112018.txt
+   16  history > history_01112018.txt
